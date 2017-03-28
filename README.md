@@ -2,7 +2,7 @@
 
 ## You should not re-use passwords.
 
-### If an attacker gets hold of your password, they can login to many other sites using your account. This tool creates a unique password for each of your websites. All it needs is the website's name and a passphrase of 5 or more words.
+If an attacker gets hold of your password, they can login to many other sites using your account. This tool creates a unique password for each of your websites. All it needs is the website's name and a passphrase of 5 or more words.
 
 ## Instructions
 
