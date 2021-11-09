@@ -20,4 +20,4 @@ Each generated password is unique for the website and the passphrase. Technicall
 
 All mathematical operations are executed in your browser. Nothing is stored on the web. The source code is entirely inside this page, nothing is loaded from external sources. To check you may right-click and select "show page source".
 
-Try online on github: https://rawgit.com/jkanev/password-manager/master/password-manager.html
+This tool is hosted at: http://pass-word.info 
